@@ -1,5 +1,7 @@
 # Discord 24/7 Onliner
 
+**Last Updated:** 2025-09-22
+
 ⚠️ **Disclaimer:**  
 This tool interacts with the Discord Gateway and may technically violate Discord’s Terms of Service if misused. You should **not use it as a Discord RPC, bot, or automation that spams or breaks Discord rules**.  
 Use at your own risk.  
@@ -104,9 +106,9 @@ Run the script:
 <details>
 <summary>💡 Credits</summary>
 
-- Original author: **SQR**  
+- Original author: **William Holley**  
 - Contact: **wholley123@icloud.com**  
-- GitHub: [Discord 24/7 Onliner](https://github.com/4realwilly/Discord-247-Onliner)  
+- GitHub: [GitHub](https://github.com/4realwilly)  
 
 Please give credit if you modify or redistribute the code.
 
