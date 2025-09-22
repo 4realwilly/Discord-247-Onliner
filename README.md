@@ -2,7 +2,7 @@
 
 **Last Updated:** 2025-09-22
 
-⚠️ **Disclaimer:**  
+**Disclaimer:**  
 This tool interacts with the Discord Gateway and may technically violate Discord’s Terms of Service if misused. You should **not use it as a Discord RPC, bot, or automation that spams or breaks Discord rules**.  
 Use at your own risk.  
 
@@ -12,7 +12,7 @@ Built with Python, WebSockets, and the official Discord Gateway.
 ---
 
 <details>
-<summary>✨ Features</summary>
+<summary>Features</summary>
 
 - Multi-account support (up to 10 tokens)  
 - Color-coded logging system (Success, Info, Error)  
@@ -28,7 +28,7 @@ Built with Python, WebSockets, and the official Discord Gateway.
 ---
 
 <details>
-<summary>📦 Requirements</summary>
+<summary>Requirements</summary>
 
 - Python 3.9+  
 
@@ -36,14 +36,14 @@ Install dependencies:
 
     pip install -r requirements.txt
 
-➡️ [requirements.txt](https://github.com/4realwilly/Discord-247-Onliner/blob/main/requirements.txt)
+[requirements.txt](https://github.com/4realwilly/Discord-247-Onliner/blob/main/requirements.txt)
 
 </details>
 
 ---
 
 <details>
-<summary>⚙️ Setup</summary>
+<summary>Setup</summary>
 
 Clone the repo:
 
@@ -51,7 +51,7 @@ Clone the repo:
     cd Discord-247-Onliner
 
 Fill out your `.env` file:  
-➡️ [.env](https://github.com/4realwilly/Discord-247-Onliner/blob/main/.env)
+[.env](https://github.com/4realwilly/Discord-247-Onliner/blob/main/.env)
 
     TOKEN1=your_token_here
     USERNAME1=AccountName
@@ -70,7 +70,7 @@ Fill out your `.env` file:
     ROTATE_MINUTES=15
 
 Run the script:  
-➡️ [app.py](https://github.com/4realwilly/Discord-247-Onliner/blob/main/app.py)
+[app.py](https://github.com/4realwilly/Discord-247-Onliner/blob/main/app.py)
 
     python app.py
 
@@ -79,7 +79,7 @@ Run the script:
 ---
 
 <details>
-<summary>🚀 Notes</summary>
+<summary>Notes</summary>
 
 - Invalid tokens are detected automatically and won’t crash the app.  
 - Rotation interval is controlled via `.env`:  
@@ -93,7 +93,7 @@ Run the script:
 ---
 
 <details>
-<summary>🛠️ Troubleshooting</summary>
+<summary>Troubleshooting</summary>
 
 - **`4004 Authentication failed`** → Your token is invalid or expired.  
 - **Repeated `SSL connection is closed`** → Normal when Discord forces a reconnect. The script will automatically handle it.  
@@ -104,7 +104,7 @@ Run the script:
 ---
 
 <details>
-<summary>💡 Credits</summary>
+<summary>Credits</summary>
 
 - Original author: **William Holley**  
 - Contact: **wholley123@icloud.com**  
